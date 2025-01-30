@@ -3,7 +3,7 @@ import './Navbar.css'; // Import the CSS file
 import UserMenu from './UserMenu.jsx'; // Import the UserMenu component
 
 const Navbar = () => {
-  const navLinks = ['Men', 'Women', 'Kids', 'Sale'];
+  const navLinks = ['Men', 'Women', 'KidsSS', 'Sale'];
 
   return (
     <nav className="navbar">
